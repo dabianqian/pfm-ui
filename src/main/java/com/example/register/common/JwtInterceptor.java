@@ -1,4 +1,4 @@
-package com.example.ketangpai.common;
+package com.example.register.common;
 
 import io.jsonwebtoken.JwtBuilder;
 import io.jsonwebtoken.Jwts;

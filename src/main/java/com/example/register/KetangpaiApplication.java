@@ -1,4 +1,4 @@
-package com.example.ketangpai;
+package com.example.register;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;

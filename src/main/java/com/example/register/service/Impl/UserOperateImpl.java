@@ -1,7 +1,6 @@
-package com.example.ketangpai.service.Impl;
+package com.example.register.service.Impl;
 
-import com.alibaba.fastjson.JSON;
-import com.example.ketangpai.Mapper.UserMapper;
+import com.example.register.Mapper.UserMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 

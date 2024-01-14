@@ -1,4 +1,4 @@
-package com.example.ketangpai.Util;
+package com.example.register.Util;
 
 import io.jsonwebtoken.JwtBuilder;
 import io.jsonwebtoken.Jwts;
